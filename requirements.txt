@@ -1,0 +1,9 @@
+requests
+python-telegram-bot==12.7
+bs4
+html5lib
+pandas
+python-csv
+telebot
+pyTelegramBotAPI
+tweepy
